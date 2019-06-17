@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/wesammustafa/kickstart/issues"
   },
-  "homepage": "https://github.com/wesammustafa/kickstart#readme"
+  "homepage": "https://github.com/wesammustafa/kickstart#readme",
+  "dependencies": {
+    "fs-extra": "^8.0.1",
+    "solc": "^0.4.17"
+  }
 }
