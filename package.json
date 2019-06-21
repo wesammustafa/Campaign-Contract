@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/wesammustafa/kickstart#readme",
   "dependencies": {
+    "bignumber.js": "^9.0.0",
     "fs-extra": "^5.0.0",
     "ganache-cli": "^6.0.3",
     "mocha": "^4.1.0",
